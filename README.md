@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...  Javascript  
 - 💞️ I’m looking to collaborate on ... Working on  Web Designer
 - 📫 How to reach me ... contact : 9182281023   
-- 😄 Pronouns: ...  feeling happy    
+- 😄 Pronouns: ...  Male   
 - ⚡ Fun fact: ...  playing cricket 
 
 <!---
